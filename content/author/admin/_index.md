@@ -82,6 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Edgar is Netsafe’s principal researcher. He holds a PhD in Information Systems and a BA (Hons) in Public Policy from Victoria University of Wellington, New Zealand. Edgar’s overall research interest is in the social and cultural impact of Information and Communication Technologies on society. As a research analyst, he plans and implements Netsafe’s research in regard to online safety and digital challenges and risks. Edgar has also conducted and published research on new technologies in the context of higher education and disability.
