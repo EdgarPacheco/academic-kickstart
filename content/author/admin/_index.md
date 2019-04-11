@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Analyst, Netsafe - New Zealand"
+role = "Research Analyst"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Netsafe - New Zealand", url = "https://www.netsafe.org.nz/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Edgar is Netsafe’s principal researcher. He holds a PhD in Information Systems and a BA (Hons) in Public Policy from Victoria University of Wellington, New Zealand. Edgar’s overall research interest is in the social and cultural impact of Information and Communication Technologies on society. As a research analyst, he plans and implements Netsafe’s research in regard to online safety and digital challenges and risks. Edgar has also conducted and published research on new technologies in the context of higher education and disability."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Media and Communications",
+  "Online Safety",
+  "Technology and Society"
 ]
 
 # Organizational groups that you belong to (for People widget)
